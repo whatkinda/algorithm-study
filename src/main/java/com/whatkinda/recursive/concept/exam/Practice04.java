@@ -1,4 +1,4 @@
-package com.whatkinda.recursive_231230.concept.exam;
+package com.whatkinda.recursive.concept.exam;
 
 /* 문자열 뒤집기 */
 public class Practice04 {

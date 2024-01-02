@@ -1,4 +1,4 @@
-package com.whatkinda.recursive_231230.concept.exam;
+package com.whatkinda.recursive.concept.exam;
 
 /* 자연수 N 의 합계 */
 public class Practice02 {

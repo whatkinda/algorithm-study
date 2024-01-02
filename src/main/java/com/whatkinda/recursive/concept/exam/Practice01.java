@@ -1,4 +1,4 @@
-package com.whatkinda.recursive_231230.concept.exam;
+package com.whatkinda.recursive.concept.exam;
 
 /*
 * 재귀(concept) 를 이해하기 위해선 절차지향적 사고를 버리고 귀납적 사고로 접근해야 한다.

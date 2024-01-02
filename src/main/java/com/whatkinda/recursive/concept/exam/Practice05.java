@@ -1,4 +1,4 @@
-package com.whatkinda.recursive_231230.concept.exam;
+package com.whatkinda.recursive.concept.exam;
 
 import java.util.Arrays;
 
